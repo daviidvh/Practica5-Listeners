@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity() {
     bot.setOnClickListener {
         agregar(eT1, eT2)
         borrar(eT2)
+
     }
 
 }
